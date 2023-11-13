@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+
+
+.nav-link , .navbar-brand , .text-custom{
+    color: rgb(172, 168, 168);
+}
+
+.nav-link:hover , .navbar-brand:hover{
+    color: rgb(194, 194, 8);
+    transform: scale(1.1);
+    transition:0,4;
+}
